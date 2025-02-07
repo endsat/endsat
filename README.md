@@ -1,16 +1,20 @@
-## Hi there 👋
+If everything is set up right, you’ll be redirected instantly! 🎯  
 
-<!--
-**endsat/endsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Why Use ends.at?  
+✅ **Zero setup** – Just GitHub and a text file.  
+✅ **Full control** – Change your link anytime by editing `endsat.txt`.  
+✅ **No limits** – Works with any valid URL.  
+✅ **Blazing fast** – Uses GitHub’s raw file service.  
 
-Here are some ideas to get you started:
+## ❓ Troubleshooting  
+- **Getting a 404?** → Make sure your repo is public & `endsat.txt` exists.  
+- **Not redirecting?** → Check your URL format (must start with `http://` or `https://`).  
+- **Still seeing an old link?** → GitHub caches raw files. Try adding `?timestamp=12345` at the end of the URL.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔮 What’s Next?  
+- Custom domains 🚀  
+- Built-in URL shortening 🔗  
+- A simple web UI for easy setup 🖥️  
+
+---
+Made with ❤️ for quick and hassle-free redirects.  
