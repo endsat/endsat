@@ -1,9 +1,9 @@
 # `ends.at/your-github-username` redirects anywhere you want  
 
-Your custom URL can also point to any shortlinks you create.  
-`ends.at/your-github-username/shortlink`
+Your custom URL can also point to shortlinks you create.  
+`ends.at/your-github-username/link-name`
 
-## Get Started in 3 Simple Steps  
+## 3 steps to get started  
 
 ### 1️. Connect with GitHub  
 - If you don’t have a GitHub account, [create one here](https://github.com/signup).  
