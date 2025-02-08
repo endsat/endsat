@@ -1,4 +1,4 @@
-# ends.at – your link that redirects anywhere you want it to  
+# `ends.at/github-username` redirects anywhere you want it to  
 
 It's quick and easy to create a short, custom URL that points where you choose + any shortlinks you create.  
 
