@@ -1,8 +1,8 @@
-# ends.at – get a link that redirects anywhere you want it to  
+# ends.at – your link that redirects anywhere you want it to  
 
 It's quick and easy to create a short, custom URL that points where you choose + any shortlinks you create.  
 
-## ⚡ Get Started in 3 Simple Steps  
+## Get Started in 3 Simple Steps  
 
 ### 1️. Connect with GitHub  
 - If you don’t have a GitHub account, [create one here](https://github.com/signup).  
