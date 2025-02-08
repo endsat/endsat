@@ -1,6 +1,7 @@
-# `ends.at/github-username` redirects anywhere you want it to  
+# `ends.at/your-github-username` redirects anywhere you want  
 
-It's quick and easy to create a short, custom URL that points where you choose + any shortlinks you create.  
+Your custom URL can also point to any shortlinks you create.  
+`ends.at/your-github-username/shortlink`
 
 ## Get Started in 3 Simple Steps  
 
