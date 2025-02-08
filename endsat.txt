@@ -1,4 +1,6 @@
-http://example.com
+https://hi.ends.at/placeholder/
+example example.com
+google google.com
 cx https://www.nytimes.com/games/connections
 ai chat.openai.com/
 now time.is
